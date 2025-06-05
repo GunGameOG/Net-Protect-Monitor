@@ -5,7 +5,7 @@ Updated version of https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts.
 Discord
 
 ![alt tag](https://github.com/GunGameOG/Net-Protect-Monitor/blob/main/Screenshot%202025-06-05%20014308.png)
-![alt tag](https://github.com/GunGameOG/Net-Protect-Monitor/blob/main/Screenshot%202025-06-05%20014839.png)
+![alt tag](https://github.com/user-attachments/assets/d077182c-b27d-44bf-bcc4-00aeb1ac94da)
 
 # Need help?
 My Discord: GunGameOG#9082
