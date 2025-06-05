@@ -1,20 +1,17 @@
 # Net-Protect-Monitor
-Updated version of (https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts).
+Updated version of https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts.
 
 # Screenshots
-
 Discord
 
 ![alt tag](https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts/blob/master/AlertPrevDiscord.PNG "Discord")
 
 # Need help?
+My Discord: GunGameOG#9082
 
-Discord GunGameOG#9082
-
-Discord Server 
+Discord Server: 
 
 # Server Hostings
-
 Galaxy Gate
 
  - DDoS Protection
