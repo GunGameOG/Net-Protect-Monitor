@@ -1,6 +1,29 @@
 # Discord-VPN-DDoS-Attack-Alerts v3.0
 Updated version of https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts.
 
+## How to Use:
+
+> [!IMPORTANT]
+> Set Webhook URL
+> 
+> Replace ``--WEBHOOK HERE--`` with your actual Discord webhook URL.
+
+
+> [!IMPORTANT]
+> Dependencies
+> 
+> Ensure ``tshark`` are installed.
+
+> [!IMPORTANT]
+> Run the Script
+> 
+> ``bash discordalerts.sh``
+> Execute the script with appropriate privileges.
+
+> [!TIP]
+> If you get a werid output try ``dos2unix discordalert.sh`` then run the script ``bash discordalerts.sh``.
+
+
 # Screenshots
 
 Discord
