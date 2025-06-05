@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ┌───────────────────────────────────────────────┐
-# │ Discord-VPN-DDoS-Attack-Alerts v2.0 by GunGameOG │
+# │ Discord-VPN-DDoS-Attack-Alerts v3.0 by GunGameOG │
 # └───────────────────────────────────────────────┘
 
 # CONFIGURATION
