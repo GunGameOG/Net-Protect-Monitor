@@ -1,4 +1,4 @@
-# Net-Protect-Monitor
+# Discord-VPN-DDoS-Attack-Alerts v3.0
 Updated version of https://github.com/GunGameOG/Discord-VPN-DDoS-Attack-Alerts.
 
 # Screenshots
